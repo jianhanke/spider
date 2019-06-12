@@ -1,0 +1,104 @@
+author=蜀南熟男,age=37
+content=我的女朋友跟别人的女朋友的区别 - 糗事百科 
+author=无处安放的...,age=25
+content=穿上这衣服果然可以为所欲为 - 糗事百科 
+author=大猪蹄儿,age=24
+content=十三岁那年，晚自习我根本没心情看书。我趴在桌子上点了根烟。刚抽上两口，班主任推门进来了，我 - 糗事百科 
+author=蜀南熟男,age=37
+content=这可真是赚大了 - 糗事百科 
+author=朴半夜,age=20
+content=小姐姐体验VR，男友在后面笑的不行，场面一度失控 - 糗事百科 
+author=练得一手好...,age=31
+content=暗藏玄“机” - 糗事百科 
+author=且行且忘硪,age=30
+content=你是一个好人 - 糗事百科 
+author=夲少姓〖劉...,age=27
+content=这球进的牛逼 - 糗事百科 
+author=开窗一片雪,age=33
+content=只猜到了开头！ - 糗事百科 
+author=曰久甥情,age=32
+content=到底疼不疼[doge][doge] - 糗事百科 
+author=老司机带带...,age=22
+content=最烦打游戏的时候来短信 - 糗事百科 
+author=朴半夜,age=20
+content=骚年，你健身的姿势好妖娆啊！ - 糗事百科 
+author=调皮的小汪...,age=26
+content=这是啥电视剧……… - 糗事百科 
+author=为你变了,age=28
+content=走玻璃桥，腿也不抖了，心也不慌了 - 糗事百科 
+author=眼镜果业,age=31
+content=这个东西真香 - 糗事百科 
+author=鑫惢,age=31
+content=最讨厌挤公交了 - 糗事百科 
+author=伤逝流水,age=18
+content=兄弟们抓住它 - 糗事百科 
+author=带翅膀的老...,age=37
+content=太他妈欺负人了 - 糗事百科 
+author=内涵段子1...,age=23
+content=[流鼻血][流鼻血]这回真的是男女平等“O尿” - 糗事百科 
+author=小姑娘、老...,age=24
+content=哥们和女朋友谈了几年，期间从来没碰过她，她说第一次要在新婚之夜！今天，苦尽甘来，终于结婚了 - 糗事百科 
+author=贵州小伙i,age=19
+content=这位大爷很社会 - 糗事百科 
+author=二月团队p...,age=25
+content=没有这3个！就算再有钱女生也会离你远远的！ - 糗事百科 
+author=朴半夜,age=20
+content=新郎，心急吃不了热豆腐，而且还有可能吃到臭豆腐啊 - 糗事百科 
+author=人参和醋丶...,age=28
+content=人生苦短，何妨一试 - 糗事百科 
+author=哥二八樵夫,age=37
+content=昨晚我做了一个梦，一位仙风道骨的白须老翁从天而降，对我说道：年轻人，你其实本是天上的神仙， - 糗事百科 
+author=永名,age=28
+content=震仓多年的图片。。。 - 糗事百科 
+author=朴半夜,age=20
+content=有个追星的朋友是什么样的体验 ？ - 糗事百科 
+author=调皮的小汪...,age=26
+content=这是啥电视剧……… - 糗事百科 
+author=为你变了,age=28
+content=走玻璃桥，腿也不抖了，心也不慌了 - 糗事百科 
+author=眼镜果业,age=31
+content=这个东西真香 - 糗事百科 
+author=鑫惢,age=31
+content=最讨厌挤公交了 - 糗事百科 
+author=伤逝流水,age=18
+content=兄弟们抓住它 - 糗事百科 
+author=带翅膀的老...,age=37
+content=太他妈欺负人了 - 糗事百科 
+author=内涵段子1...,age=23
+content=[流鼻血][流鼻血]这回真的是男女平等“O尿” - 糗事百科 
+author=小姑娘、老...,age=24
+content=哥们和女朋友谈了几年，期间从来没碰过她，她说第一次要在新婚之夜！今天，苦尽甘来，终于结婚了 - 糗事百科 
+author=贵州小伙i,age=19
+content=这位大爷很社会 - 糗事百科 
+author=二月团队p...,age=25
+content=没有这3个！就算再有钱女生也会离你远远的！ - 糗事百科 
+author=朴半夜,age=20
+content=新郎，心急吃不了热豆腐，而且还有可能吃到臭豆腐啊 - 糗事百科 
+author=人参和醋丶...,age=28
+content=人生苦短，何妨一试 - 糗事百科 
+author=哥二八樵夫,age=37
+content=昨晚我做了一个梦，一位仙风道骨的白须老翁从天而降，对我说道：年轻人，你其实本是天上的神仙， - 糗事百科 
+author=永名,age=28
+content=震仓多年的图片。。。 - 糗事百科 
+author=朴半夜,age=20
+content=有个追星的朋友是什么样的体验 ？ - 糗事百科 
+author=窝里斗窝里,age=25
+content=这顿饭吃的真坎坷！ - 糗事百科 
+author=逗太兔,age=27
+content=爸比你够了，长大之后不会放过你的 - 糗事百科 
+author=两亿哥,age=29
+content=到最后  有惊喜 - 糗事百科 
+author=濤聲夢涙,age=28
+content=这。。。。。。 - 糗事百科 
+author=余生都会是...,age=28
+content=屌逼好像很厉害的样子哈哈哈哈学不来[大笑] - 糗事百科 
+author=人傻不能复...,age=27
+content=今天下班饿了想点一个外卖，——割一下——我就下了一个外卖app，进去就让我注册，我注册了两 - 糗事百科 
+author=余生都会是...,age=28
+content=这就是东北 - 糗事百科 
+author=朴半夜,age=20
+content=那些你无法理解的歌词，扎不扎心 - 糗事百科 
+author=东临～天下,age=36
+content=你们生小孩都是按图纸来的吗？？ - 糗事百科 
+author=曰久甥情,age=32
+content=现在我们没有代沟[doge][doge][doge] - 糗事百科 
